@@ -1,0 +1,1 @@
+Simple and basic code to rasterize triangles (everything happens on the CPU side)
